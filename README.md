@@ -2,7 +2,7 @@
 
 The publications of the BEF-China http://www.bef-china.de & data portal http://china.befdata.biow.uni-leipzig.de/
 
-Please download [BEF-ChinaPublications](https://git.idiv.de/gr92hopy/bef-chinapublicationlist/BEF-ChinaPublicationlist.bib) and use in your prefered reference manager.
+Please download [BEF-ChinaPublications](https://github.com/ggpmrutten/BEF-ChinaPublicationList/BEF-ChinaPublicationlist.bib) and use in your prefered reference manager.
 
 
 ## 2019
